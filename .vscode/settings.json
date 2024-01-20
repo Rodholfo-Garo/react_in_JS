@@ -1,0 +1,8 @@
+{
+  // Serve para desligar a configuração padrão do VSCODE
+  "editor.formatOnSave": false,
+  //Usar a configuração do Prettier, que vai fazer todas a deiçalterações automaticamente
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint":
+  }
+}

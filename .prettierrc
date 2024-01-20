@@ -1,0 +1,8 @@
+{
+  // Não Precisa terminar os objetos e arrays com Virgula
+  "trailingComma":"nome",
+  //Não precisar terminar com ;
+  "semi": false,
+  // Usar apenas aspas simples
+  "singleQuote": true
+}
